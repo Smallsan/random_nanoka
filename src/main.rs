@@ -19,6 +19,16 @@ impl NanokaRandom {
             "Kanbaru Suruga",
             "Hanekawa Tsubasa",
             "Oshino Shinobu",
+            "Rumia",
+            "Kirisame Marisa",
+            "Kumoi Ichirin",
+            "Hakurei Reimu",
+            "Tsukasa",
+            "Kamishirasawa Keine",
+            "Merlin Prismriver",
+            "Letty Whiterock",
+            "Tatara Kogasa",
+            "Konpaku Youmu",
         ];
 
         NanokaRandom {
