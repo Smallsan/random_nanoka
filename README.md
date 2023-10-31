@@ -1,5 +1,5 @@
 # random_nanoka
-## The worst random number generator in the world, nanodesu.
+## The worst most controversial random number generator in the world, nanodesu.
 
 ## How does it work?
 ### There's a vec of anime characters who say nanoka a lot.
