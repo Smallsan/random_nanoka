@@ -29,7 +29,7 @@ impl NanokaRandom {
 
     fn next(&mut self) -> u64 {
         self.seed = self.seed.wrapping_add(self.nanoka_characters.len() as u64);
-        (self.seed)
+        self.seed
     }
 
     fn next_in_range(&mut self, min: u64, max: u64) -> u64 {
