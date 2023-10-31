@@ -1,7 +1,7 @@
 # random_nanoka
 ## The worst random number generator in the world, nanodesu.
 
-## How it works?
+## How does it work?
 ### There's a vec of anime characters who say nanoka a lot.
 ```rust
         let nanoka_characters = vec![
@@ -13,7 +13,7 @@
             "Oshino Shinobu",
         ];
 ```
-### And it get's the length of their names.
+### And it gets the length of their names.
 ```rust
 nanoka_characters.len()
 ```
